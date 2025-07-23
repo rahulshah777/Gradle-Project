@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://rahulshah6819:Shibu_asus%407@cluster0.6tfkpxh.mongodb.net/mydatabase?retryWrites=true&w=majority
